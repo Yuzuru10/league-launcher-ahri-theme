@@ -3,7 +3,7 @@
 ## How to install?
 
 -  Download and install [Pengu Loader](https://github.com/PenguLoader/PenguLoader)
--  Put files into the plugins folder
+-  Put the **ahri-theme** folder into the **plugins** folder
 
 
 ## Images
