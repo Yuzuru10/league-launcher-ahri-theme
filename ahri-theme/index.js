@@ -1,13 +1,4 @@
-
-function insertCss(css) {
-  const style = document.createElement("style");
-  style.textContent = css;
-  document.body.append(style);
-}
-
-window.addEventListener("DOMContentLoaded", () => {
-  insertCss(require("yuzUwU.theme.css"));
-});
+import './theme.css';
 
 window.addEventListener('load', () => {
   // Wait for viewport root
