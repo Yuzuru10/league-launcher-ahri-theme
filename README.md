@@ -2,8 +2,8 @@
 
 ## How to install?
 
--  Download https://github.com/nomi-san/league-loader/
--  Put files into same folder as League Loader
+-  Download and install [Pengu Loader](https://github.com/PenguLoader/PenguLoader)
+-  Put the **ahri-theme** folder into the **plugins** folder
 
 
 ## Images
